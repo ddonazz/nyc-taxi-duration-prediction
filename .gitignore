@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.venv/
+2024-taxi-data/
+campione.parquet/
+dati_taxi_aggregati.parquet/
+dati_taxi_puliti_per_ml.parquet/
